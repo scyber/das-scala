@@ -1,4 +1,4 @@
-package example
+package com.example
 
 object Sum2 extends App{
 
@@ -12,4 +12,7 @@ object Sum2 extends App{
       loop(a,1)
   }
   //Sum( x=> x * x ,3,5)
+
+
+
 }
